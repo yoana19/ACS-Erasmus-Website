@@ -1,3 +1,5 @@
+/*country photos*/
+
 .row {
   display: flex;
 }
@@ -12,4 +14,94 @@
  .column {
    width: 100%;
  }
-} 
+}
+
+/*nav bar*/
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #0073d8;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/*color theme*/
+
+.w3-theme-l5 {color:#000 !important; background-color:#e9f5ff !important}
+.w3-theme-l4 {color:#000 !important; background-color:#b6ddff !important}
+.w3-theme-l3 {color:#000 !important; background-color:#6cbaff !important}
+.w3-theme-l2 {color:#fff !important; background-color:#2398ff !important}
+.w3-theme-l1 {color:#fff !important; background-color:#0073d8 !important}
+.w3-theme-d1 {color:#fff !important; background-color:#004581 !important}
+.w3-theme-d2 {color:#fff !important; background-color:#003d72 !important}
+.w3-theme-d3 {color:#fff !important; background-color:#003564 !important}
+.w3-theme-d4 {color:#fff !important; background-color:#002e56 !important}
+.w3-theme-d5 {color:#fff !important; background-color:#002647 !important}
+
+.w3-theme-light {color:#000 !important; background-color:#e9f5ff !important}
+.w3-theme-dark {color:#fff !important; background-color:#002647 !important}
+.w3-theme-action {color:#fff !important; background-color:#002647 !important}
+
+.w3-theme {color:#fff !important; background-color:#004b8d !important}
+.w3-text-theme {color:#004b8d !important}
+.w3-border-theme {border-color:#004b8d !important}
+
+.w3-hover-theme:hover {color:#fff !important; background-color:#004b8d !important}
+.w3-hover-text-theme:hover {color:#004b8d !important}
+.w3-hover-border-theme:hover {border-color:#004b8d !important}

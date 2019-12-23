@@ -17,25 +17,72 @@
   </head>
   <body>
 
-    <div class="w3-top">
-      <div class="w3-bar w3-red w3-card w3-left-align w3-large">
-        <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-        <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Germany</a>
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Croatia</a>
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Greece</a>
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Austria</a>
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Bulgaria</a>
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Turkey</a>
-      </div>
-
-      <!-- Navbar on small screens -->
-      <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
-        <a href="#" class="w3-bar-item w3-button w3-padding-large">Germany</a>
-        <a href="#" class="w3-bar-item w3-button w3-padding-large">Croatia</a>
-        <a href="#" class="w3-bar-item w3-button w3-padding-large">Greece</a>
-        <a href="#" class="w3-bar-item w3-button w3-padding-large">Austria</a>
-        <a href="#" class="w3-bar-item w3-button w3-padding-large">Bulgaria</a>
-        <a href="#" class="w3-bar-item w3-button w3-padding-large">Turkey</a>
+    <div class="navbar w3-theme-d2">
+    <a href="index.php">Home</a>
+    <a href="about.php">About</a>
+    <div class="dropdown">
+      <button class="dropbtn">Germany
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="">Program</a>
+        <a href="#">Photos</a>
+        <a href="country-report.php?germany">Reports</a>
+        <a href="#">Profiles</a>
+        <a href="#">Extras</a>
       </div>
     </div>
+    <div class="dropdown">
+      <button class="dropbtn">Croatia
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="#">Program</a>
+        <a href="#">Photos</a>
+        <a href="country-report.php?croatia">Reports</a>
+        <a href="#">Profiles</a>
+        <a href="#">Extras</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="dropbtn">Austria
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="#">Program</a>
+        <a href="#">Photos</a>
+        <a href="#">Reports</a>
+        <a href="#">Profiles</a>
+        <a href="#">Extras</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="dropbtn">Greece
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="#">Program</a>
+        <a href="#">Photos</a>
+        <a href="#">Reports</a>
+        <a href="#">Profiles</a>
+        <a href="#">Extras</a>
+      </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn">Turkey
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Program</a>
+      <a href="#">Photos</a>
+      <a href="#">Reports</a>
+      <a href="#">Profiles</a>
+      <a href="#">Extras</a>
+    </div>
+</div>
+</div>
+
+  <header class="w3-container w3-theme w3-center" style="padding:128px 16px">
+    <h1 class="w3-margin w3-jumbo">Title</h1>
+    <p class="w3-xlarge">American College of Sofia Erasmus 2019-2020</p>
+  </header>
