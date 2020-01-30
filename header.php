@@ -80,9 +80,22 @@
       <a href="#">Extras</a>
     </div>
 </div>
+<div class="dropdown">
+  <button class="dropbtn">Bulgaria
+	<i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-content">
+	<a href="#">Program</a>
+	<a href="#">Photos</a>
+	<a href="#">Reports</a>
+	<a href="#">Profiles</a>
+	<a href="#">Extras</a>
+  </div>
+
+</div>
 </div>
 
   <header class="w3-container w3-theme w3-center" style="padding:128px 16px">
-    <h1 class="w3-margin w3-jumbo">Title</h1>
+    <h1 class="w3-margin w3-jumbo">Erasmus+</h1>
     <p class="w3-xlarge">American College of Sofia Erasmus 2019-2020</p>
   </header>

@@ -24,7 +24,7 @@
  </div>
 </div>
 
-<a href="../link.html"><img src="img/erasmus-logo.jpg" title="Erasmus" alt="Erasmus"></a>
+<a href="about.php"><center><img src="img/erasmus-logo.jpg" title="Erasmus" alt="Erasmus"></center></a>
 
 <!-- First Grid -->
 <div class="w3-row-padding w3-padding-64 w3-container">
