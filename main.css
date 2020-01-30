@@ -26,6 +26,10 @@ body {
   overflow: hidden;
 }
 
+p{
+	margin: 2%;
+}
+
 .navbar a {
   float: left;
   font-size: 16px;

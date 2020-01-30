@@ -5,22 +5,22 @@
 
 <div class="row">
  <div class="column">
-   <a href="Germany_Program.php"><img src="img/germany-flag.png" style="width:auto" title="Germany" alt="Germany"></a>
+   <a href="country-program.php?germany"><img src="img/germany-flag.png" style="width:auto" title="Germany" alt="Germany"></a>
  </div>
  <div class="column">
-   <a href="Croatia_Program.php"><img src="img/croatia-flag.png" style="width:auto" title="Croatia" alt="Croatia"></a>
+   <a href="country-program.php?croatia"><img src="img/croatia-flag.png" style="width:auto" title="Croatia" alt="Croatia"></a>
  </div>
  <div class="column">
-   <a href="Greece_Program.php"><img src="img/greece-flag.png" style="width:auto" title="Greece" alt="Greece"></a>
+   <a href="country-program.php?greece"><img src="img/greece-flag.png" style="width:auto" title="Greece" alt="Greece"></a>
  </div>
  <div class="column">
-   <a href="Austria_Program.php"><img src="img/austria-flag.png" style="width:auto" title="Austria" alt="Austria"></a>
+   <a href="country-program.php?austria"><img src="img/austria-flag.png" style="width:auto" title="Austria" alt="Austria"></a>
  </div>
  <div class="column">
-   <a href="Bulgaria_Program.php"><img src="img/bulgaria-flag.png" style="width:auto" title="Bulgaria" alt="Bulgaria"></a>
+   <a href="country-program.php?bulgaria"><img src="img/bulgaria-flag.png" style="width:auto" title="Bulgaria" alt="Bulgaria"></a>
  </div>
  <div class="column">
-   <a href="Turkey_Program.php"><img src="img/turkey-flag.png" style="width:auto" title="Turkey" alt="Turkey"></a>
+   <a href="country-program.php?turkey"><img src="img/turkey-flag.png" style="width:auto" title="Turkey" alt="Turkey"></a>
  </div>
 </div>
 
