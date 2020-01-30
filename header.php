@@ -90,11 +90,12 @@
 	<a href="country-profiles.php?bulgaria">Profiles</a>
 	<a href="country-extras.php?bulgaria">Extras</a>
   </div>
+</div>
+<div class="dropup">
+  <h4 align="right"> <pre>Erasmus+    </pre></h2>
+</div>
+
 
 </div>
-</div>
 
-  <header class="w3-container w3-theme w3-center" style="padding:128px 16px">
-    <h1 class="w3-margin w3-jumbo">Erasmus+</h1>
-    <p class="w3-xlarge">American College of Sofia Erasmus 2019-2020</p>
-  </header>
+
