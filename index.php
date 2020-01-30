@@ -28,10 +28,10 @@
  </div>
 </div>
 
-<center><img src="img/erasmus-logo.jpg" title="Erasmus" alt="Erasmus"></center>
+<center><img src="img/erasmus-logo2.png" width="800px" title="Erasmus" alt="Erasmus"></center>
 
 <!-- First Grid -->
-<div class="w3-row-padding w3-padding-64 w3-container">
+<!-- <div class="w3-row-padding w3-padding-64 w3-container">
   <div class="w3-content">
     <div class="w3-twothird">
       <h1>Lorem Ipsum</h1>
@@ -46,10 +46,10 @@
       <i class="fa fa-anchor w3-padding-64 w3-text-red"></i>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Second Grid -->
-<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+<!-- <div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
   <div class="w3-content">
     <div class="w3-third w3-center">
       <i class="fa fa-coffee w3-padding-64 w3-text-red w3-margin-right"></i>
@@ -64,7 +64,7 @@
         laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
   </div>
-</div>
+</div> -->
 
 
 <script>
