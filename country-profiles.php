@@ -5,7 +5,13 @@
 <?php
 if (isset($_GET['croatia'])) {
 
-echo '';
+echo '
+
+	
+	
+	
+	
+';
 
 } else if (isset($_GET['germany'])) {
 

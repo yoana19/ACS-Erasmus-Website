@@ -5,7 +5,7 @@
 <?php
 if (isset($_GET['croatia'])) {
 
-echo ' <div class="w3-container w3-theme-d2">
+echo ' <div class="w3-container w3-theme-d2" align="center">
   <h1>ERASMUS + : „Bildungssysteme in Europa“</h1>
   </div>
 
@@ -25,11 +25,9 @@ echo ' <div class="w3-container w3-theme-d2">
 </p>
   </div>
 
-  <div class="w3-container w3-theme-d2">
-    <h5>Erika Ćurić, Lana Tomiša, Tena Kocijan, Petar Mešnjak, Elizabeta Zavrtnik und Lorena Tkalčec</h5>
-  </div>
+  <div class="w3-container w3-theme-d2" align="right">
+     <h5><pre>Erika Ćurić     Lana Tomiša     Tena Kocijan     Petar Mešnjak     Elizabeta Zavrtnik     Lorena Tkalčec<pre></h5> </div>
 
-  <iframe frameborder="0" width="40%" height="700px" allowfullscreen="true" webkitallowfullscreen="true" src="https://docs.google.com/document/d/e/2PACX-1vTPsYZYuTOk6PWTWtTqQi3b-1oj1Q5txmxu79armxZVG43lEjZyqjJbANsUv4HcXAcZoazoUDstHvdGxTvB-lw/pub?embedded=true"></iframe>
 
 ';
 
