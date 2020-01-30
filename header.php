@@ -19,17 +19,16 @@
 
     <div class="navbar w3-theme-d2">
     <a href="index.php">Home</a>
-    <a href="about.php">About</a>
     <div class="dropdown">
       <button class="dropbtn">Germany
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="">Program</a>
-        <a href="#">Photos</a>
+        <a href="country-program.php?germany">Program</a>
+        <a href="country-photos.php?germany">Photos</a>
         <a href="country-report.php?germany">Reports</a>
-        <a href="#">Profiles</a>
-        <a href="#">Extras</a>
+        <a href="country-profiles.php?germany">Profiles</a>
+        <a href="country-extras.php?germany">Extras</a>
       </div>
     </div>
     <div class="dropdown">
@@ -37,11 +36,11 @@
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="#">Program</a>
-        <a href="#">Photos</a>
+        <a href="country-program.php?croatia">Program</a>
+        <a href="country-photos.php?croatia">Photos</a>
         <a href="country-report.php?croatia">Reports</a>
-        <a href="#">Profiles</a>
-        <a href="#">Extras</a>
+        <a href="country-profiles.php?croatia">Profiles</a>
+        <a href="country-extras.php?croatia">Extras</a>
       </div>
     </div>
     <div class="dropdown">
@@ -49,11 +48,11 @@
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="#">Program</a>
-        <a href="#">Photos</a>
-        <a href="#">Reports</a>
-        <a href="#">Profiles</a>
-        <a href="#">Extras</a>
+        <a href="country-program.php?austria">Program</a>
+        <a href="country-program.php?austria">Photos</a>
+        <a href="country-report.php?austria">Reports</a>
+        <a href="country-profiles.php?austria">Profiles</a>
+        <a href="country-extras.php?austria">Extras</a>
       </div>
     </div>
     <div class="dropdown">
@@ -61,11 +60,11 @@
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="#">Program</a>
-        <a href="#">Photos</a>
-        <a href="#">Reports</a>
-        <a href="#">Profiles</a>
-        <a href="#">Extras</a>
+        <a href="country-program.php?greece">Program</a>
+        <a href="country-photos.php?greece">Photos</a>
+        <a href="country-report.php?greece">Reports</a>
+        <a href="country-profiles.php?greece">Profiles</a>
+        <a href="country-extras.php?greece">Extras</a>
       </div>
   </div>
   <div class="dropdown">
@@ -73,11 +72,11 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Program</a>
-      <a href="#">Photos</a>
-      <a href="#">Reports</a>
-      <a href="#">Profiles</a>
-      <a href="#">Extras</a>
+      <a href="country-program.php?turkey">Program</a>
+      <a href="country-photos.php?turkey">Photos</a>
+      <a href="country-report.php?turkey">Reports</a>
+      <a href="country-profiles.php?turkey">Profiles</a>
+      <a href="country-extras.php?turkey">Extras</a>
     </div>
 </div>
 <div class="dropdown">
@@ -85,11 +84,11 @@
 	<i class="fa fa-caret-down"></i>
   </button>
   <div class="dropdown-content">
-	<a href="#">Program</a>
-	<a href="#">Photos</a>
-	<a href="#">Reports</a>
-	<a href="#">Profiles</a>
-	<a href="#">Extras</a>
+	<a href="country-program.php?bulgaria">Program</a>
+	<a href="country-photos.php?bulgaria">Photos</a>
+	<a href="country-report.php?bulgaria">Reports</a>
+	<a href="country-profiles.php?bulgaria">Profiles</a>
+	<a href="country-extras.php?bulgaria">Extras</a>
   </div>
 
 </div>

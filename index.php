@@ -5,7 +5,7 @@
 
 <div class="row">
  <div class="column">
-   <a href="../link.html"><img src="img/germany-flag.png" style="width:auto" title="Germany" alt="Germany"></a>
+   <a href="Germany_Program.php"><img src="img/germany-flag.png" style="width:auto" title="Germany" alt="Germany"></a>
  </div>
  <div class="column">
    <a href="Croatia_Program.php"><img src="img/croatia-flag.png" style="width:auto" title="Croatia" alt="Croatia"></a>
@@ -14,17 +14,17 @@
    <a href="Greece_Program.php"><img src="img/greece-flag.png" style="width:auto" title="Greece" alt="Greece"></a>
  </div>
  <div class="column">
-   <a href="../link.html"><img src="img/austria-flag.png" style="width:auto" title="Austria" alt="Austria"></a>
+   <a href="Austria_Program.php"><img src="img/austria-flag.png" style="width:auto" title="Austria" alt="Austria"></a>
  </div>
  <div class="column">
-   <a href="../link.html"><img src="img/bulgaria-flag.png" style="width:auto" title="Bulgaria" alt="Bulgaria"></a>
+   <a href="Bulgaria_Program.php"><img src="img/bulgaria-flag.png" style="width:auto" title="Bulgaria" alt="Bulgaria"></a>
  </div>
  <div class="column">
-   <a href="../link.html"><img src="img/turkey-flag.png" style="width:auto" title="Turkey" alt="Turkey"></a>
+   <a href="Turkey_Program.php"><img src="img/turkey-flag.png" style="width:auto" title="Turkey" alt="Turkey"></a>
  </div>
 </div>
 
-<center><a href="about.php"><img src="img/erasmus-logo.jpg" title="Erasmus" alt="Erasmus"></a></center>
+<center><img src="img/erasmus-logo.jpg" title="Erasmus" alt="Erasmus"></center>
 
 <!-- First Grid -->
 <div class="w3-row-padding w3-padding-64 w3-container">
