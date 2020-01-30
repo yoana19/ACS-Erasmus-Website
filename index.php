@@ -8,10 +8,10 @@
    <a href="../link.html"><img src="img/germany-flag.png" style="width:auto" title="Germany" alt="Germany"></a>
  </div>
  <div class="column">
-   <a href="../link.html"><img src="img/croatia-flag.png" style="width:auto" title="Croatia" alt="Croatia"></a>
+   <a href="Croatia_Program.php"><img src="img/croatia-flag.png" style="width:auto" title="Croatia" alt="Croatia"></a>
  </div>
  <div class="column">
-   <a href="../link.html"><img src="img/greece-flag.png" style="width:auto" title="Greece" alt="Greece"></a>
+   <a href="Greece_Program.php"><img src="img/greece-flag.png" style="width:auto" title="Greece" alt="Greece"></a>
  </div>
  <div class="column">
    <a href="../link.html"><img src="img/austria-flag.png" style="width:auto" title="Austria" alt="Austria"></a>
@@ -24,7 +24,7 @@
  </div>
 </div>
 
-<a href="about.php"><center><img src="img/erasmus-logo.jpg" title="Erasmus" alt="Erasmus"></center></a>
+<center><a href="about.php"><img src="img/erasmus-logo.jpg" title="Erasmus" alt="Erasmus"></a></center>
 
 <!-- First Grid -->
 <div class="w3-row-padding w3-padding-64 w3-container">
