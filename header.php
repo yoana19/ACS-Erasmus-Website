@@ -47,7 +47,7 @@
       </button>
       <div class="dropdown-content">
         <a href="country-presentation.php?austria">Presentation</a>
-        <a href="country-program.php?austria">Photos</a>
+        <a href="country-photos.php?austria">Photos</a>
         <a href="country-report.php?austria">Reports</a>
         <a href="country-profiles.php?austria">Profiles</a>
       </div>

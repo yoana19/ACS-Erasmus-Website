@@ -24,6 +24,10 @@ echo '';
 echo '';
 
 }
+else if (isset($_GET['austria'])) {
+
+echo '';
+}
 ?>
 
 <?php
