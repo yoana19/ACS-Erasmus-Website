@@ -4,7 +4,7 @@
 
   <header class="w3-container w3-theme w3-center" style="padding:128px 16px">
     <h1 class="w3-margin w3-jumbo">Erasmus+</h1>
-    <p class="w3-xlarge">Bildungssystem in Europa</p>
+    <p class="w3-xlarge">Bildungssystemе in Europa</p>
   </header>
 
 <div class="row">
@@ -15,16 +15,16 @@
    <a href="country-presentation.php?croatia"><img src="img/croatia-flag.png" style="width:auto" title="Croatia" alt="Croatia"></a>
  </div>
  <div class="column">
-   <a href="country-presentation.php?greece"><img src="img/greece-flag.png" style="width:auto" title="Greece" alt="Greece"></a>
- </div>
- <div class="column">
    <a href="country-presentation.php?austria"><img src="img/austria-flag.png" style="width:auto" title="Austria" alt="Austria"></a>
  </div>
  <div class="column">
-   <a href="country-presentation.php?bulgaria"><img src="img/bulgaria-flag.png" style="width:auto" title="Bulgaria" alt="Bulgaria"></a>
+   <a href="country-presentation.php?greece"><img src="img/greece-flag.png" style="width:auto" title="Greece" alt="Greece"></a>
  </div>
  <div class="column">
    <a href="country-presentation.php?turkey"><img src="img/turkey-flag.png" style="width:auto" title="Turkey" alt="Turkey"></a>
+ </div>
+ <div class="column">
+   <a href="country-presentation.php?bulgaria"><img src="img/bulgaria-flag.png" style="width:auto" title="Bulgaria" alt="Bulgaria"></a>
  </div>
 </div>
 

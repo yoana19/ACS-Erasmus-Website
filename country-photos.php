@@ -28,6 +28,11 @@ else if (isset($_GET['austria'])) {
 
 echo '';
 }
+
+else if (isset($_GET['bulgaria'])) {
+
+echo '';;
+}
 ?>
 
 <?php

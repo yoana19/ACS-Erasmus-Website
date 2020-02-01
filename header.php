@@ -80,7 +80,7 @@
   </button>
   <div class="dropdown-content">
 	<a href="country-presentation.php?bulgaria">Präsentation</a>
- <!--	<a href="country-photos.php?bulgaria">Fotos</a> !-->
+	<a href="country-photos.php?bulgaria">Fotos</a>
 	<a href="country-report.php?bulgaria">Berichte</a>
 	<a href="country-profiles.php?bulgaria">Steckbriefe</a>
   </div>
