@@ -18,71 +18,71 @@
   <body>
 
     <div class="navbar w3-theme-d2">
-    <a href="index.php">Home</a>
+    <a href="index.php">Startseite</a>
     <div class="dropdown">
-      <button class="dropbtn">Germany
+      <button class="dropbtn">Deutschland
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="country-presentation.php?germany">Presentation</a>
-        <a href="country-photos.php?germany">Photos</a>
-        <a href="country-report.php?germany">Reports</a>
-        <a href="country-profiles.php?germany">Profiles</a>
+        <a href="country-presentation.php?germany">Präsentation</a>
+<!--        <a href="country-photos.php?germany">Fotos</a>
+        <a href="country-report.php?germany">Berichte</a>
+        <a href="country-profiles.php?germany">Steckbriefe</a>  !-->
       </div>
     </div>
     <div class="dropdown">
-      <button class="dropbtn">Croatia
+      <button class="dropbtn">Kroatien
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="country-presentation.php?croatia">Presentation</a>
-        <a href="country-photos.php?croatia">Photos</a>
-        <a href="country-report.php?croatia">Reports</a>
-        <a href="country-profiles.php?croatia">Profiles</a>
+        <a href="country-presentation.php?croatia">Präsentation</a>
+        <!--  <a href="country-photos.php?croatia">Fotos</a> !-->
+        <a href="country-report.php?croatia">Berichte</a>
+        <a href="country-profiles.php?croatia">Steckbriefe</a>
       </div>
     </div>
     <div class="dropdown">
-      <button class="dropbtn">Austria
+      <button class="dropbtn">Österreich
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="country-presentation.php?austria">Presentation</a>
-        <a href="country-photos.php?austria">Photos</a>
-        <a href="country-report.php?austria">Reports</a>
-        <a href="country-profiles.php?austria">Profiles</a>
+    <!--    <a href="country-presentation.php?austria">Präsentation</a>
+        <a href="country-photos.php?austria">Fotos</a>
+        <a href="country-report.php?austria">Berichte</a>
+        <a href="country-profiles.php?austria">Steckbriefe</a> !-->
       </div>
     </div>
     <div class="dropdown">
-      <button class="dropbtn">Greece
+      <button class="dropbtn">Griechenland
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="country-presentation.php?greece">Presentation</a>
-        <a href="country-photos.php?greece">Photos</a>
-        <a href="country-report.php?greece">Reports</a>
-        <a href="country-profiles.php?greece">Profiles</a>
+        <a href="country-presentation.php?greece">Präsentation</a>
+    <!--    <a href="country-photos.php?greece">Fotos</a>
+        <a href="country-report.php?greece">Berichte</a>
+        <a href="country-profiles.php?greece">Steckbriefe</a> !-->
       </div>
   </div>
   <div class="dropdown">
-    <button class="dropbtn">Turkey
+    <button class="dropbtn">die Türkei
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="country-presentation.php?turkey">Presentation</a>
-      <a href="country-photos.php?turkey">Photos</a>
-      <a href="country-report.php?turkey">Reports</a>
-      <a href="country-profiles.php?turkey">Profiles</a>
+      <a href="country-presentation.php?turkey">Präsentation</a>
+<!--      <a href="country-photos.php?turkey">Fotos</a>
+      <a href="country-report.php?turkey">Berichte</a>
+      <a href="country-profiles.php?turkey">Steckbriefe</a> !-->
     </div>
 </div>
 <div class="dropdown">
-  <button class="dropbtn">Bulgaria
+  <button class="dropbtn">Bulgarien
 	<i class="fa fa-caret-down"></i>
   </button>
   <div class="dropdown-content">
-	<a href="country-presentation.php?bulgaria">Presentation</a>
-	<a href="country-photos.php?bulgaria">Photos</a>
-	<a href="country-report.php?bulgaria">Reports</a>
-	<a href="country-profiles.php?bulgaria">Profiles</a>
+	<a href="country-presentation.php?bulgaria">Präsentation</a>
+ <!--	<a href="country-photos.php?bulgaria">Fotos</a> !-->
+	<a href="country-report.php?bulgaria">Berichte</a>
+	<a href="country-profiles.php?bulgaria">Steckbriefe</a>
   </div>
 </div>
 <div class="dropup">

@@ -4,7 +4,7 @@
 
   <header class="w3-container w3-theme w3-center" style="padding:128px 16px">
     <h1 class="w3-margin w3-jumbo">Erasmus+</h1>
-    <p class="w3-xlarge">American College of Sofia Erasmus 2019-2020</p>
+    <p class="w3-xlarge">Bildungssystem in Europa</p>
   </header>
 
 <div class="row">
