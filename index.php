@@ -2,6 +2,10 @@
     require "header.php";
 ?>
 
+  <head>
+	  <link rel="icon" href="http://bildungssysteme.eu/favicon.png">
+  </head>
+
   <header class="w3-container w3-theme w3-center" style="padding:128px 16px">
     <h1 class="w3-margin w3-jumbo">Erasmus+</h1>
     <p class="w3-xlarge">Bildungssystemе in Europa</p>
