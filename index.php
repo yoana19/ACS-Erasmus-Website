@@ -24,11 +24,13 @@
    <a href="country-presentation.php?turkey"><img src="img/turkey-flag.png" style="width:auto" title="Turkey" alt="Turkey"></a>
  </div>
  <div class="column">
-   <a href="country-presentation.php?bulgaria"><img src="img/bulgaria-flag.png" style="width:auto" title="Bulgaria" alt="Bulgaria"></a>
+   <a href="country-photos.php?bulgaria"><img src="img/bulgaria-flag.png" style="width:auto" title="Bulgaria" alt="Bulgaria"></a>
  </div>
 </div>
 
 <center><img src="img/erasmus-logo2.png" width="800px" title="Erasmus" alt="Erasmus"></center>
+<br>
+<embed src="presentations/main-description.pdf" type="application/pdf" width="100%" height="1000px" />';
 
 <!-- First Grid -->
 <!-- <div class="w3-row-padding w3-padding-64 w3-container">

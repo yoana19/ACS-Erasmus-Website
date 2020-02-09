@@ -45,15 +45,15 @@ echo ' <div class="w3-container w3-theme-d2" align="center">
 
 } else if (isset($_GET['germany'])) {
 
-echo '';
+echo '<center><img src="img/germany-report.jpg" width="1200px" title="Erasmus" alt="Erasmus"></center>';
 
 } else if (isset($_GET['austria'])) {
 
-echo '';
+echo '<embed src="docs/austria-report.pdf" type="application/pdf" width="100%" height="1000px"/>';
 
 } else if (isset($_GET['greece'])) {
 
-echo '';
+echo '<embed src="docs/greece-report.pdf" type="application/pdf" width="100%" height="1000px"/>';
 
 } else if (isset($_GET['turkey'])) {
 

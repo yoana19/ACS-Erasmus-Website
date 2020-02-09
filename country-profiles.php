@@ -17,7 +17,7 @@ echo '';
 
 } else if (isset($_GET['greece'])) {
 
-echo '';
+echo '<embed src="docs/greece-profiles.pdf" type="application/pdf" width="100%" height="1000px"/>';
 
 } else if (isset($_GET['turkey'])) {
 

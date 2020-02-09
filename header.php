@@ -25,9 +25,9 @@
       </button>
       <div class="dropdown-content">
         <a href="country-presentation.php?germany">Präsentation</a>
-<!--        <a href="country-photos.php?germany">Fotos</a>
+<!--        <a href="country-photos.php?germany">Fotos</a> !-->
         <a href="country-report.php?germany">Berichte</a>
-        <a href="country-profiles.php?germany">Steckbriefe</a>  !-->
+        <!-- <a href="country-profiles.php?germany">Steckbriefe</a>  !-->
       </div>
     </div>
     <div class="dropdown">
@@ -47,9 +47,9 @@
       </button>
       <div class="dropdown-content">
     <!--    <a href="country-presentation.php?austria">Präsentation</a>
-        <a href="country-photos.php?austria">Fotos</a>
+        <a href="country-photos.php?austria">Fotos</a> -->
         <a href="country-report.php?austria">Berichte</a>
-        <a href="country-profiles.php?austria">Steckbriefe</a> !-->
+        <!-- <a href="country-profiles.php?austria">Steckbriefe</a> !-->
       </div>
     </div>
     <div class="dropdown">
@@ -58,9 +58,9 @@
       </button>
       <div class="dropdown-content">
         <a href="country-presentation.php?greece">Präsentation</a>
-    <!--    <a href="country-photos.php?greece">Fotos</a>
+    <!--    <a href="country-photos.php?greece">Fotos</a> -->
         <a href="country-report.php?greece">Berichte</a>
-        <a href="country-profiles.php?greece">Steckbriefe</a> !-->
+        <a href="country-profiles.php?greece">Steckbriefe</a>
       </div>
   </div>
   <div class="dropdown">

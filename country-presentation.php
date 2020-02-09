@@ -9,7 +9,8 @@ echo '<embed src="presentations/croatia-presentation.pdf" type="application/pdf"
 
 } else if (isset($_GET['germany'])) {
 
-echo '<embed src="presentations/germany-presentation.pdf" type="application/pdf" width="100%" height="1000px" />';
+echo '<embed src="presentations/germany-presentation2.pdf" type="application/pdf" width="100%" height="850px" />
+      <embed src="presentations/germany-presentation.pdf" type="application/pdf" width="100%" height="1000px" />';
 
 } else if (isset($_GET['austria'])) {
 
