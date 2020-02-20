@@ -3,7 +3,7 @@
 ?>
 
   <head>
-	  <link rel="icon" href="http://bildungssysteme.eu/favicon.png">
+	  <link rel="icon" href="http://bildungssysteme.eu/favicon.ico">
   </head>
 
   <header class="w3-container w3-theme w3-center" style="padding:128px 16px">

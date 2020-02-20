@@ -36,7 +36,7 @@
       </button>
       <div class="dropdown-content">
         <a href="country-presentation.php?croatia">Präsentation</a>
-        <!--  <a href="country-photos.php?croatia">Fotos</a> !-->
+        <a href="country-photos.php?croatia">Interview</a>
         <a href="country-report.php?croatia">Berichte</a>
         <a href="country-profiles.php?croatia">Steckbriefe</a>
       </div>
@@ -46,8 +46,8 @@
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-    <!--    <a href="country-presentation.php?austria">Präsentation</a>
-        <a href="country-photos.php?austria">Fotos</a> -->
+     	<a href="country-presentation.php?austria">Präsentation</a>
+        <a href="country-photos.php?austria">Fotos</a>
         <a href="country-report.php?austria">Berichte</a>
         <!-- <a href="country-profiles.php?austria">Steckbriefe</a> !-->
       </div>
@@ -58,7 +58,7 @@
       </button>
       <div class="dropdown-content">
         <a href="country-presentation.php?greece">Präsentation</a>
-    <!--    <a href="country-photos.php?greece">Fotos</a> -->
+<!--         <a href="country-photos.php?greece">Fotos</a> -->
         <a href="country-report.php?greece">Berichte</a>
         <a href="country-profiles.php?greece">Steckbriefe</a>
       </div>
